@@ -1,2 +1,1 @@
-# rot47
-C# implementation of the rot47 cipher
+# rot47: implemenation of rot47 in C#
